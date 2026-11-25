@@ -1,0 +1,71 @@
+{
+  "run_time": "2026-11-25T21:19:13.799919+00:00",
+  "first_run_date": "2026-11-25",
+  "days_with_success": 1,
+  "items": 10,
+  "new_today": [
+    "atlanta",
+    "chicago",
+    "dallas",
+    "denver",
+    "fayetteville",
+    "houston",
+    "little-rock",
+    "los-angeles",
+    "miami",
+    "new-york"
+  ],
+  "gone_today": [],
+  "sources": [
+    {
+      "name": "little-rock",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "fayetteville",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "dallas",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "houston",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "new-york",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "chicago",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "los-angeles",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "miami",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "denver",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "atlanta",
+      "ok": true,
+      "count": 1
+    }
+  ]
+}

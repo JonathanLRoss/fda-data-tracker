@@ -1,1 +1,11 @@
 date,item_id,item,source,temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max
+2026-11-25,atlanta,Atlanta,atlanta,59.2,43.9,0.016,15.5
+2026-11-25,chicago,Chicago,chicago,40.5,32.9,0.0,17.3
+2026-11-25,dallas,Dallas,dallas,53.6,36.2,0.0,9.9
+2026-11-25,denver,Denver,denver,50.0,23.6,0.0,7.0
+2026-11-25,fayetteville,Fayetteville,fayetteville,43.5,24.3,0.0,11.1
+2026-11-25,houston,Houston,houston,55.2,39.1,0.028,9.8
+2026-11-25,little-rock,Little Rock,little-rock,49.7,37.9,0.0,11.2
+2026-11-25,los-angeles,Los Angeles,los-angeles,77.0,52.5,0.0,6.2
+2026-11-25,miami,Miami,miami,74.3,70.1,12.122,9.7
+2026-11-25,new-york,New York,new-york,42.0,31.8,0.0,9.9
