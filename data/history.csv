@@ -9,3 +9,13 @@ date,item_id,item,source,temperature_2m_max,temperature_2m_min,precipitation_sum
 2026-11-25,los-angeles,Los Angeles,los-angeles,77.0,52.5,0.0,6.2
 2026-11-25,miami,Miami,miami,74.3,70.1,12.122,9.7
 2026-11-25,new-york,New York,new-york,42.0,31.8,0.0,9.9
+2026-11-26,atlanta,Atlanta,atlanta,48.7,36.5,0.807,14.8
+2026-11-26,chicago,Chicago,chicago,43.1,39.2,0.157,20.5
+2026-11-26,dallas,Dallas,dallas,54.1,33.2,0.0,11.0
+2026-11-26,denver,Denver,denver,58.7,25.1,0.0,6.7
+2026-11-26,fayetteville,Fayetteville,fayetteville,37.3,27.7,0.0,14.3
+2026-11-26,houston,Houston,houston,55.3,37.6,0.0,9.6
+2026-11-26,little-rock,Little Rock,little-rock,46.2,34.0,0.0,17.4
+2026-11-26,los-angeles,Los Angeles,los-angeles,82.9,51.2,0.0,6.9
+2026-11-26,miami,Miami,miami,77.4,67.8,0.205,14.8
+2026-11-26,new-york,New York,new-york,46.9,42.1,0.839,26.6
