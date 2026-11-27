@@ -1,10 +1,10 @@
 # Daily weather changes
-Date: 2026-11-26
+Date: 2026-11-27
 Maximum temperature changes (°F):
-- atlanta: 59.2 → 48.7 (-10.5)
-- denver: 50.0 → 58.7 (+8.7)
-- fayetteville: 43.5 → 37.3 (-6.2)
-- los-angeles: 77.0 → 82.9 (+5.9)
-- new-york: 42.0 → 46.9 (+4.9)
+- fayetteville: 37.3 → 56.4 (+19.1)
+- little-rock: 46.2 → 62.6 (+16.4)
+- dallas: 54.1 → 69.4 (+15.3)
+- new-york: 46.9 → 57.0 (+10.1)
+- houston: 55.3 → 61.0 (+5.7)
 New: None
 Gone: None
